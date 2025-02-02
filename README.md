@@ -1,2 +1,4 @@
 # demo
-Learning to use Git and GitHub
+Praneeth Reddy
+Learning to use Git and GitHub. 
+
