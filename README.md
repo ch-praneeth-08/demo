@@ -1,4 +1,4 @@
 # demo
-Praneeth Reddy
+Praneeth Reddy<br>
 Learning to use Git and GitHub. 
 
